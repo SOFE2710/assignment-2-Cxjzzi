@@ -1,3 +1,6 @@
+Crissy Erebua
+100779965
+
 READ ME FOR ASSIGNMENT TWO:
 
 Due to the TestApp.java file, two new methods are introduced to the Person class. Student objects are created by referencing the Person class. 
@@ -8,3 +11,5 @@ The code in the TestApp.java file has been modified to get the desired result; o
 Furthermore, two courses with the same course code but distinct course numbers can exist. 
 In the TestApp.java code, the method printStudentsRegisteredInCourse() was invoked using the course number as an input. 
 As a result, the functions printStudentsRegisteredInCourse() and studentsRegisteredInCourse() have been modified to accept course number rather than course code as an argument.
+
+
